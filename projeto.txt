@@ -4,3 +4,10 @@
 2. Instalar e/ou importar bibliotecas necessárias. 
 
 3. Importar tabela e tratar os dados. 
+
+
+# INSIGHTS
+
+# INSIGHT 1: promover a venda de livros por meio de um evento ou promovendo um desconto.
+
+# INSIGHT 2: promover o marketing voltado às regiões com menos clientes com foco em aquisição de clientes.
